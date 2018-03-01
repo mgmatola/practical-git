@@ -1,1 +1,1 @@
-// getInitials implementation
+// getInitials implementation create conflict
